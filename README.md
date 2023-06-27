@@ -4,6 +4,16 @@
 **Regina-uriel/Regina-uriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
+
+I'm a junior devloper/trainee of PMT, the largest mass transit and logistic company in West and Central Africa with over 3,000 vehicles and 5,000 manpower. I am also a student ofUniversity Of Nigeria Nsukka(U.N.N).
+
+I have 3 months experience as a junior developer,writing software,and developing businesses with these technologies:
+
+- Languages: Javascript, HTML5, CSS3, Typescript, java
+- Frameworks: Angular, React
+- Tools: Terraform, Git.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
