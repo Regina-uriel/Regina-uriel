@@ -16,23 +16,30 @@ I have 3 months experience as a junior developer,writing software,and developing
 
 ### Summary
 
-- 📚 Sam's blogs: [Dev.to](https://dev.to/reginauriel) | [Hashnode.dev](https://hashnode.com/@Ammylozi) | [Medium.com](https://ammyloziregis.medium.com/)
+- 📚 Ammy's blogs: [Dev.to](https://dev.to/reginauriel) | [Hashnode.dev](https://hashnode.com/@Ammylozi) | [Medium.com](https://ammyloziregis.medium.com/)
 - 🔭 I’m currently working at [PMT.ng](https://pmt.ng/) as a junior developer/trainee.....
-- 🌱 I’m currently learning: AI | Security | Leadership
+- 🌱 I’m currently learning: Javascript| Angular | Leadership..
 - 👯 I’m looking to collaborate on any exciting challenge
-- 🤔 I’m looking for help with Data Science, System Security, and Advanced Engineering Maths
-- 💬 Ask me about taking an idea and building a complete product
-- 📫 How to reach me: [Twitter](https://twitter.com/nditah_sammy) or [LinkedIn](https://www.linkedin.com/in/nditah)
-- 😄 Pronouns: He / Him 
-- ⚡ Fun fact: I share the same birthday with Mother Teresa
+- 🤔 I’m looking for help with Data Science, System Security, and Javascript, Angular
+- 💬 Ask me about taking an idea and building a complete product and teamwork...
+- 📫 How to reach me: [Twitter](https://twitter.com/ceali402) or [LinkedIn](https://www.linkedin.com/in/ammylozi-regis-27652a275/)
+- 😄 Pronouns: She / Her.. 
+- ⚡ Fun fact: I share the same birthday with Adetomiwa Edun
+
+ # Recent Articles:
+ -Notes On JavaScript 
+ -Relationship between a software developer and a product manger
+
+ 
+My regular tasks involve:
+
+- Develop technical aspects of the company’s strategy to ensure alignment with its business goals 
+- Software developer discovering and implementing newtechnologies
+- Public speaking and running efficient meetings
+- Learning, Adapting, and Managing crises
+
+I'm a Disrupter who is open to new ideas into business
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
